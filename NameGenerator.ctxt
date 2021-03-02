@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NameGenerator
+comment0.text=\r\n\ Generados\ de\ nombres\ de\ Star\ Wars\r\n\ \r\n\ @author\ (Pablo\ Molero\ Rodriguez)\ \r\n\ @version\ (02.03.21)\r\n
+comment1.params=
+comment1.target=NameGenerator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NameGenerator\r\n
+comment2.params=name\ surName1\ surName2
+comment2.target=java.lang.String\ generateStarWarsName(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Generate\ StarWars\ Name\r\n\ \r\n\ @param\ \ Nombre\r\n\ @param\ \ Apellido\ 1\r\n\ @param\ \ Apellido\ 2\r\n\ @return\ StarWars\ Name\ \r\n
+numComments=3
